@@ -3,6 +3,12 @@
 
 Official implementation for the paper "JL1-CD: A New Benchmark for Remote Sensing Change Detection and a Robust Multi-Teacher Knowledge Distillation Framework".
 
+## Dataset  
+To comply with double-blind review requirements, the JL1-CD dataset is hosted anonymously at: [https://zenodo.org/records/15395535](https://zenodo.org/records/15395535)  
+
+## Models  
+Anonymous checkpoints of all experimental models are available at: [https://zenodo.org/records/15411192](https://zenodo.org/records/15411192)  
+
 ## Usage
 
 ### Install
